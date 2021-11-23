@@ -1,6 +1,6 @@
 const header = {
-  // ainda nao sei oq linkar nesse botao
-  homepage: '#',
+  // ainda nao sei oq linkar nesse botao, talvez meu cv?
+  homepage: 'https://drive.google.com/file/d/1u9sot07YrQxBxBMGhJl-Lthfi0RGyflB/view?usp=sharing',
   title: 'AR.',
 }
 
