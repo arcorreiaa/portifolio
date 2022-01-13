@@ -31,3 +31,8 @@
 .project .link--icon {
   margin-left: 0.5em;
 }
+
+.img_style {
+  width: 300px;
+  height: 250px;
+}
