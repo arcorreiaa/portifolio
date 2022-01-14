@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.24f53740.chunk.css",
-    "main.js": "/static/js/main.b03e339b.chunk.js",
-    "main.js.map": "/static/js/main.b03e339b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.212f1880.js",
-    "runtime-main.js.map": "/static/js/runtime-main.212f1880.js.map",
-    "static/js/2.8ef3401b.chunk.js": "/static/js/2.8ef3401b.chunk.js",
-    "static/js/2.8ef3401b.chunk.js.map": "/static/js/2.8ef3401b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.24f53740.chunk.css.map": "/static/css/main.24f53740.chunk.css.map",
-    "static/js/2.8ef3401b.chunk.js.LICENSE.txt": "/static/js/2.8ef3401b.chunk.js.LICENSE.txt",
-    "static/media/calculadora.dd602aea.gif": "/static/media/calculadora.dd602aea.gif",
-    "static/media/gastomen.e94b285d.gif": "/static/media/gastomen.e94b285d.gif",
-    "static/media/terrorflix.aba4f6fd.gif": "/static/media/terrorflix.aba4f6fd.gif",
-    "static/media/todo.908a639d.gif": "/static/media/todo.908a639d.gif"
+    "main.css": "/portifolio/static/css/main.24f53740.chunk.css",
+    "main.js": "/portifolio/static/js/main.b5d98821.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.b5d98821.chunk.js.map",
+    "runtime-main.js": "/portifolio/static/js/runtime-main.70ed75e0.js",
+    "runtime-main.js.map": "/portifolio/static/js/runtime-main.70ed75e0.js.map",
+    "static/js/2.96dcb870.chunk.js": "/portifolio/static/js/2.96dcb870.chunk.js",
+    "static/js/2.96dcb870.chunk.js.map": "/portifolio/static/js/2.96dcb870.chunk.js.map",
+    "index.html": "/portifolio/index.html",
+    "static/css/main.24f53740.chunk.css.map": "/portifolio/static/css/main.24f53740.chunk.css.map",
+    "static/js/2.96dcb870.chunk.js.LICENSE.txt": "/portifolio/static/js/2.96dcb870.chunk.js.LICENSE.txt",
+    "static/media/calculadora.dd602aea.gif": "/portifolio/static/media/calculadora.dd602aea.gif",
+    "static/media/gastomen.e94b285d.gif": "/portifolio/static/media/gastomen.e94b285d.gif",
+    "static/media/terrorflix.aba4f6fd.gif": "/portifolio/static/media/terrorflix.aba4f6fd.gif",
+    "static/media/todo.908a639d.gif": "/portifolio/static/media/todo.908a639d.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.212f1880.js",
-    "static/js/2.8ef3401b.chunk.js",
+    "static/js/runtime-main.70ed75e0.js",
+    "static/js/2.96dcb870.chunk.js",
     "static/css/main.24f53740.chunk.css",
-    "static/js/main.b03e339b.chunk.js"
+    "static/js/main.b5d98821.chunk.js"
   ]
 }
