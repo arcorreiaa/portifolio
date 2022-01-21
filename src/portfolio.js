@@ -2,6 +2,7 @@ import Terrorflix from "../src/assets/img/terrorflix.gif";
 import Todo from "../src/assets/img/todo.gif";
 import Calculadora from "../src/assets/img/calculadora.gif";
 import Gasto from "../src/assets/img/gastomen.gif";
+import Calimc from "./assets/img/calimc.gif";
 
 const header = {
   // atualizei e coloquei meu curriculum
@@ -59,6 +60,16 @@ const projects = [
     livePreview: "https://arcorreiaa.github.io/gasto-mensal/",
     img: Gasto,
   },
+  {
+    name: "CALIMC",
+    description:
+      "My first React Native app with EXPO. It is an application that calculates BMI and is initially in version 1.0",
+    stack: ["REACT-NATIVE", "EXPO", "JavaScript"],
+    sourceCode: "https://github.com/arcorreiaa/CALIMC",
+    livePreview:
+      "https://drive.google.com/file/d/1eQ71ATsOf-RxktNPEVsdx4Vwdf7iuQ6A/view?usp=sharing",
+    img: Calimc,
+  },
 ];
 
 const skills = [
@@ -74,6 +85,8 @@ const skills = [
   "Tailwindcss",
   "Photoshop",
   "Bootstrap",
+  "React-Native",
+  "Github",
 ];
 
 const contact = {
