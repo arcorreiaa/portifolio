@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portifolio/static/css/main.24f53740.chunk.css",
-    "main.js": "/portifolio/static/js/main.b5d98821.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.b5d98821.chunk.js.map",
+    "main.js": "/portifolio/static/js/main.5979b619.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.5979b619.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.70ed75e0.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.70ed75e0.js.map",
     "static/js/2.96dcb870.chunk.js": "/portifolio/static/js/2.96dcb870.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.24f53740.chunk.css.map": "/portifolio/static/css/main.24f53740.chunk.css.map",
     "static/js/2.96dcb870.chunk.js.LICENSE.txt": "/portifolio/static/js/2.96dcb870.chunk.js.LICENSE.txt",
     "static/media/calculadora.dd602aea.gif": "/portifolio/static/media/calculadora.dd602aea.gif",
+    "static/media/calimc.29780c89.gif": "/portifolio/static/media/calimc.29780c89.gif",
     "static/media/gastomen.e94b285d.gif": "/portifolio/static/media/gastomen.e94b285d.gif",
     "static/media/terrorflix.aba4f6fd.gif": "/portifolio/static/media/terrorflix.aba4f6fd.gif",
     "static/media/todo.908a639d.gif": "/portifolio/static/media/todo.908a639d.gif"
@@ -19,6 +20,6 @@
     "static/js/runtime-main.70ed75e0.js",
     "static/js/2.96dcb870.chunk.js",
     "static/css/main.24f53740.chunk.css",
-    "static/js/main.b5d98821.chunk.js"
+    "static/js/main.5979b619.chunk.js"
   ]
 }
