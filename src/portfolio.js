@@ -33,6 +33,7 @@ const projects = [
     sourceCode: "https://github.com/arcorreiaa/netflix-clone-terrorflix",
     livePreview: "https://arcorreiaa.github.io/netflix-clone-terrorflix/",
     img: Terrorflix,
+    type: "web"
   },
   {
     name: "Lista de Tarefas",
@@ -42,6 +43,7 @@ const projects = [
     sourceCode: "https://github.com/arcorreiaa/todo",
     livePreview: "https://arcorreiaa.github.io/todo/",
     img: Todo,
+    type: "web"
   },
   {
     name: "Calculadora Simples",
@@ -51,6 +53,7 @@ const projects = [
     sourceCode: "https://github.com/arcorreiaa/calculadora",
     livePreview: "https://arcorreiaa.github.io/calculadora/",
     img: Calculadora,
+    type: "web"
   },
   {
     name: "Gasto Mensal",
@@ -59,6 +62,7 @@ const projects = [
     sourceCode: "https://github.com/arcorreiaa/gasto-mensal",
     livePreview: "https://arcorreiaa.github.io/gasto-mensal/",
     img: Gasto,
+    type: "web"
   },
   {
     name: "CALIMC",
@@ -69,6 +73,7 @@ const projects = [
     livePreview:
       "https://drive.google.com/file/d/1eQ71ATsOf-RxktNPEVsdx4Vwdf7iuQ6A/view?usp=sharing",
     img: Calimc,
+    type: "mobile"
   },
 ];
 
