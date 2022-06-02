@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.24f53740.chunk.css",
-    "main.js": "/portifolio/static/js/main.5979b619.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.5979b619.chunk.js.map",
+    "main.css": "/portifolio/static/css/main.049ef720.chunk.css",
+    "main.js": "/portifolio/static/js/main.b989fe55.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.b989fe55.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.70ed75e0.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.70ed75e0.js.map",
     "static/js/2.96dcb870.chunk.js": "/portifolio/static/js/2.96dcb870.chunk.js",
     "static/js/2.96dcb870.chunk.js.map": "/portifolio/static/js/2.96dcb870.chunk.js.map",
     "index.html": "/portifolio/index.html",
-    "static/css/main.24f53740.chunk.css.map": "/portifolio/static/css/main.24f53740.chunk.css.map",
+    "static/css/main.049ef720.chunk.css.map": "/portifolio/static/css/main.049ef720.chunk.css.map",
     "static/js/2.96dcb870.chunk.js.LICENSE.txt": "/portifolio/static/js/2.96dcb870.chunk.js.LICENSE.txt",
     "static/media/calculadora.dd602aea.gif": "/portifolio/static/media/calculadora.dd602aea.gif",
     "static/media/calimc.29780c89.gif": "/portifolio/static/media/calimc.29780c89.gif",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.70ed75e0.js",
     "static/js/2.96dcb870.chunk.js",
-    "static/css/main.24f53740.chunk.css",
-    "static/js/main.5979b619.chunk.js"
+    "static/css/main.049ef720.chunk.css",
+    "static/js/main.b989fe55.chunk.js"
   ]
 }
