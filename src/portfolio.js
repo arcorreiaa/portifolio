@@ -3,6 +3,7 @@ import Todo from "../src/assets/img/todo.gif";
 import Calculadora from "../src/assets/img/calculadora.gif";
 import Gasto from "../src/assets/img/gastomen.gif";
 import Calimc from "./assets/img/calimc.gif";
+import Flix from "./assets/img/flix.gif";
 
 const header = {
   // atualizei e coloquei meu curriculum
@@ -16,7 +17,8 @@ const about = {
   role: "Front End Developer",
   description:
     "I am a person very passionate about the technology area. I usually play and study in my spare time and I love motorcycles..",
-  resume: "https://www.instagram.com/arcoofc/",
+  resume:
+    "https://drive.google.com/file/d/1fZLmiWCCdCs1t3PSM8pVkTCwlVq-EtQF/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/arcorreiaa/",
     github: "https://github.com/arcorreiaa",
@@ -33,7 +35,7 @@ const projects = [
     sourceCode: "https://github.com/arcorreiaa/netflix-clone-terrorflix",
     livePreview: "https://arcorreiaa.github.io/netflix-clone-terrorflix/",
     img: Terrorflix,
-    type: "web"
+    type: "web",
   },
   {
     name: "Lista de Tarefas",
@@ -43,7 +45,7 @@ const projects = [
     sourceCode: "https://github.com/arcorreiaa/todo",
     livePreview: "https://arcorreiaa.github.io/todo/",
     img: Todo,
-    type: "web"
+    type: "web",
   },
   {
     name: "Calculadora Simples",
@@ -53,27 +55,44 @@ const projects = [
     sourceCode: "https://github.com/arcorreiaa/calculadora",
     livePreview: "https://arcorreiaa.github.io/calculadora/",
     img: Calculadora,
-    type: "web"
+    type: "web",
   },
   {
     name: "Gasto Mensal",
-    description: "a mini expense control system made with TypeScript",
+    description:
+      "a mini expense tracking system made with TypeScript. It saves your expenses in the browser's memory and it was quite challenging for me, I confess that I finished this project with a taste of victory. I worked with routes, with a lot of useState and useEffect and practiced a lot of componentization",
     stack: ["HTML", "CSS", "TypeScript"],
     sourceCode: "https://github.com/arcorreiaa/gasto-mensal",
     livePreview: "https://arcorreiaa.github.io/gasto-mensal/",
     img: Gasto,
-    type: "web"
+    type: "web",
   },
   {
     name: "CALIMC",
     description:
       "My first React Native app with EXPO. It is an application that calculates BMI and is initially in version 1.0",
-    stack: ["REACT-NATIVE", "EXPO", "JavaScript"],
+    stack: ["React-Native", "Expo", "JavaScript"],
     sourceCode: "https://github.com/arcorreiaa/CALIMC",
     livePreview:
       "https://drive.google.com/file/d/1eQ71ATsOf-RxktNPEVsdx4Vwdf7iuQ6A/view?usp=sharing",
     img: Calimc,
-    type: "mobile"
+    type: "mobile",
+  },
+  {
+    name: "Flix",
+    description:
+      "A challenging application, where you can buy home insurance, in this challenge I learned and delved into Hook and useStates and useEffects. I participated in this project that was rich in knowledge and challenges",
+    stack: [
+      "React-Native",
+      "Expo",
+      "JavaScript",
+      "PYNTHON",
+      "Firebase Analitycs",
+    ],
+    sourceCode: "https://github.com/arcorreiaa",
+    livePreview: "#",
+    img: Flix,
+    type: "mobile",
   },
 ];
 
@@ -88,6 +107,7 @@ const skills = [
   "Node",
   "Git",
   "Tailwindcss",
+  "Firebase",
   "Photoshop",
   "Bootstrap",
   "React-Native",
