@@ -4,6 +4,7 @@ import Calculadora from "../src/assets/img/calculadora.gif";
 import Gasto from "../src/assets/img/gastomen.gif";
 import Calimc from "./assets/img/calimc.gif";
 import Flix from "./assets/img/flix.gif";
+import GrandChase from "./assets/img/grandchase.gif";
 
 const header = {
   // atualizei e coloquei meu curriculum
@@ -92,6 +93,24 @@ const projects = [
     sourceCode: "https://github.com/arcorreiaa",
     livePreview: "#",
     img: Flix,
+    type: "mobile",
+  },
+  {
+    name: "GCBLOG",
+    description:
+      "Mini blog of one of my favorite games. My first personal project. Where I had several challenges and in it I learned to create a CMS API with Strapi, several libs were used",
+    stack: [
+      "React-Native",
+      "Expo",
+      "JavaScript",
+      "Strapi",
+      "React Navigation",
+      "React Animatable",
+    ],
+    sourceCode: "https://github.com/arcorreiaa/gcblog",
+    livePreview:
+      "http://haldreysom.no.comunidades.net/imagens/mapa_nao_disponivel.jpg",
+    img: GrandChase,
     type: "mobile",
   },
 ];
