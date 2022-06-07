@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portifolio/static/css/main.049ef720.chunk.css",
-    "main.js": "/portifolio/static/js/main.6635be47.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.6635be47.chunk.js.map",
+    "main.js": "/portifolio/static/js/main.fa4057ac.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.fa4057ac.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.70ed75e0.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.70ed75e0.js.map",
     "static/js/2.96dcb870.chunk.js": "/portifolio/static/js/2.96dcb870.chunk.js",
@@ -14,6 +14,7 @@
     "static/media/calimc.29780c89.gif": "/portifolio/static/media/calimc.29780c89.gif",
     "static/media/flix.d6805b4e.gif": "/portifolio/static/media/flix.d6805b4e.gif",
     "static/media/gastomen.e94b285d.gif": "/portifolio/static/media/gastomen.e94b285d.gif",
+    "static/media/grandchase.84e393a1.gif": "/portifolio/static/media/grandchase.84e393a1.gif",
     "static/media/terrorflix.aba4f6fd.gif": "/portifolio/static/media/terrorflix.aba4f6fd.gif",
     "static/media/todo.908a639d.gif": "/portifolio/static/media/todo.908a639d.gif"
   },
@@ -21,6 +22,6 @@
     "static/js/runtime-main.70ed75e0.js",
     "static/js/2.96dcb870.chunk.js",
     "static/css/main.049ef720.chunk.css",
-    "static/js/main.6635be47.chunk.js"
+    "static/js/main.fa4057ac.chunk.js"
   ]
 }
