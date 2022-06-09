@@ -5,7 +5,10 @@ import "./ProjectContainer.css";
 
 const ProjectContainer = ({ project }) => (
   <div className="project">
-    <img className={project.type === 'web' ? 'img_style' : 'img_style_mobile'} src={project.img} />
+    <img
+      className={project.type === "web" ? "img_style" : "img_style_mobile"}
+      src={project.img}
+    />
 
     <h3>{project.name}</h3>
 
@@ -22,6 +25,7 @@ const ProjectContainer = ({ project }) => (
 
     {project.sourceCode && (
       <a
+        target="_blank"
         href={project.sourceCode}
         aria-label="source code"
         className="link link--icon"
@@ -32,6 +36,7 @@ const ProjectContainer = ({ project }) => (
 
     {project.livePreview && (
       <a
+        target="_blank"
         href={project.livePreview}
         aria-label="live preview"
         className="link link--icon"
