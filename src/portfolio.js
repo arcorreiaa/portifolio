@@ -5,6 +5,7 @@ import Gasto from "../src/assets/img/gastomen.gif";
 import Calimc from "./assets/img/calimc.gif";
 import Flix from "./assets/img/flix.gif";
 import GrandChase from "./assets/img/grandchase.gif";
+import Kaspper from "./assets/img/Kaspper.gif";
 
 const header = {
   // atualizei e coloquei meu curriculum
@@ -39,7 +40,7 @@ const projects = [
     type: "web",
   },
   {
-    name: "Lista de Tarefas",
+    name: "Todo List Web",
     description:
       "a simple todolist to add, list and delete. in this project I had my first contact with TypeScript and the project is responsive",
     stack: ["TypeScript", "HTML", "CSS"],
@@ -49,7 +50,7 @@ const projects = [
     type: "web",
   },
   {
-    name: "Calculadora Simples",
+    name: "Calculator",
     description:
       "A calculator with just the basics. in this project I had a difficulty with JavaScript, but in the end I managed to resolve the errors and ended",
     stack: ["HTML", "CSS", "JavaScript"],
@@ -59,7 +60,7 @@ const projects = [
     type: "web",
   },
   {
-    name: "Gasto Mensal",
+    name: "Expense",
     description:
       "a mini expense tracking system made with TypeScript. It saves your expenses in the browser's memory and it was quite challenging for me, I confess that I finished this project with a taste of victory. I worked with routes, with a lot of useState and useEffect and practiced a lot of componentization",
     stack: ["HTML", "CSS", "TypeScript"],
@@ -91,7 +92,7 @@ const projects = [
       "Firebase Analitycs",
     ],
     sourceCode: "https://github.com/arcorreiaa",
-    livePreview: "#",
+    livePreview: "https://www.flix.com.vc",
     img: Flix,
     type: "mobile",
   },
@@ -111,6 +112,27 @@ const projects = [
     livePreview:
       "http://haldreysom.no.comunidades.net/imagens/mapa_nao_disponivel.jpg",
     img: GrandChase,
+    type: "mobile",
+  },
+  {
+    name: "Todo List APP",
+    description:
+      "Instead of just saving the data locally, you can register and login to a database on the cloud (Firebase). Being able to create, change and delete notes, taking today's date and its location. When logging in or creating the account, user data is saved locally.",
+    stack: [
+      "React Native",
+      "Styled Components",
+      "Expo Location",
+      "Expo",
+      "JavaScript",
+      "React Native Async Storage",
+      "React Navigation",
+      "Firebase",
+      "Moment",
+    ],
+    sourceCode: "https://github.com/arcorreiaa/kaspper",
+    livePreview:
+      "https://expo.dev/artifacts/d85fa8db-3742-48f5-b01c-6372c7851b69",
+    img: Kaspper,
     type: "mobile",
   },
 ];
