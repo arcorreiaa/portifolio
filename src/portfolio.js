@@ -6,6 +6,7 @@ import Calimc from "./assets/img/calimc.gif";
 import Flix from "./assets/img/flix.gif";
 import GrandChase from "./assets/img/grandchase.gif";
 import Kaspper from "./assets/img/Kaspper.gif";
+import Aluguel from "./assets/img/Alugando.gif";
 
 const header = {
   // atualizei e coloquei meu curriculum
@@ -133,6 +134,24 @@ const projects = [
     livePreview:
       "https://expo.dev/artifacts/d85fa8db-3742-48f5-b01c-6372c7851b69",
     img: Kaspper,
+    type: "mobile",
+  },
+  {
+    name: "Rent APP",
+    description:
+      "A mini app where I practiced Navigation, FlatList, Swiper, ScrollView",
+    stack: [
+      "React Native",
+      "Google Fonts",
+      "Expo",
+      "JavaScript",
+      "React Navigation",
+      "React Navigation Stack",
+    ],
+    sourceCode: "https://github.com/arcorreiaa/alugando",
+    livePreview:
+      "http://haldreysom.no.comunidades.net/imagens/mapa_nao_disponivel.jpg",
+    img: Aluguel,
     type: "mobile",
   },
 ];
