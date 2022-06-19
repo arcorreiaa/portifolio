@@ -7,6 +7,7 @@ import Flix from "./assets/img/flix.gif";
 import GrandChase from "./assets/img/grandchase.gif";
 import Kaspper from "./assets/img/Kaspper.gif";
 import Aluguel from "./assets/img/Alugando.gif";
+import Arcoplay from "./assets/img/ARCOPLAY.gif";
 
 const header = {
   // atualizei e coloquei meu curriculum
@@ -31,7 +32,7 @@ const about = {
 const projects = [
   // alguns projetos
   {
-    name: "TerrorFlix",
+    name: "TERROFLIX",
     description:
       "a project where I listed the horror movies that I think are the best I watch. this project I learned to use a little bit of JQUERY and each banner from the movie is linked to its trailer on youtube",
     stack: ["HTML", "CSS", "JavaScript"],
@@ -41,7 +42,7 @@ const projects = [
     type: "web",
   },
   {
-    name: "Todo List Web",
+    name: "TODO LIST Web",
     description:
       "a simple todolist to add, list and delete. in this project I had my first contact with TypeScript and the project is responsive",
     stack: ["TypeScript", "HTML", "CSS"],
@@ -51,7 +52,7 @@ const projects = [
     type: "web",
   },
   {
-    name: "Calculator",
+    name: "CALCULATOR",
     description:
       "A calculator with just the basics. in this project I had a difficulty with JavaScript, but in the end I managed to resolve the errors and ended",
     stack: ["HTML", "CSS", "JavaScript"],
@@ -61,7 +62,7 @@ const projects = [
     type: "web",
   },
   {
-    name: "Expense",
+    name: "EXPENSE",
     description:
       "a mini expense tracking system made with TypeScript. It saves your expenses in the browser's memory and it was quite challenging for me, I confess that I finished this project with a taste of victory. I worked with routes, with a lot of useState and useEffect and practiced a lot of componentization",
     stack: ["HTML", "CSS", "TypeScript"],
@@ -82,7 +83,7 @@ const projects = [
     type: "mobile",
   },
   {
-    name: "Flix",
+    name: "FLIX",
     description:
       "A challenging application, where you can buy home insurance, in this challenge I learned and delved into Hook and useStates and useEffects. I participated in this project that was rich in knowledge and challenges",
     stack: [
@@ -116,7 +117,7 @@ const projects = [
     type: "mobile",
   },
   {
-    name: "Todo List APP",
+    name: "TODO LIST APP",
     description:
       "Instead of just saving the data locally, you can register and login to a database on the cloud (Firebase). Being able to create, change and delete notes, taking today's date and its location. When logging in or creating the account, user data is saved locally.",
     stack: [
@@ -137,7 +138,7 @@ const projects = [
     type: "mobile",
   },
   {
-    name: "Rent APP",
+    name: "RENT APP",
     description:
       "A mini app where I practiced Navigation, FlatList, Swiper, ScrollView",
     stack: [
@@ -152,6 +153,25 @@ const projects = [
     livePreview:
       "http://haldreysom.no.comunidades.net/imagens/mapa_nao_disponivel.jpg",
     img: Aluguel,
+    type: "mobile",
+  },
+  {
+    name: "ARCOPLAY APP",
+    description: "A simple audio player that has some very simple features",
+    stack: [
+      "React Native",
+      "Expo media Library",
+      "React Native Async Storage",
+      "React Navigation",
+      "React Native Masked-View",
+      "React Native Slider",
+      "Expo",
+      "JavaScript",
+    ],
+    sourceCode: "https://github.com/arcorreiaa/arcoplay",
+    livePreview:
+      "https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40arcorreiaa/audio-player-7bbe194bb50f43e0afcaa396264368e6-signed.apk",
+    img: Arcoplay,
     type: "mobile",
   },
 ];
