@@ -8,6 +8,9 @@ import GrandChase from "./assets/img/grandchase.gif";
 import Kaspper from "./assets/img/Kaspper.gif";
 import Aluguel from "./assets/img/Alugando.gif";
 import Arcoplay from "./assets/img/ARCOPLAY.gif";
+import Login from "./assets/img/print-login.png";
+import Pokedex from "./assets/img/pokedex.gif";
+import FcxLabs from "./assets/img/fclabs.gif";
 
 const header = {
   // atualizei e coloquei meu curriculum
@@ -174,6 +177,70 @@ const projects = [
     img: Arcoplay,
     type: "mobile",
   },
+  {
+    name: "VIDEO PLATFORM",
+    description:
+      "Simple video platform, where you can make a kind of subscription to be able to view the other contents. Videos about a childhood game",
+    stack: [
+      "React",
+      "Vite",
+      "Typescript",
+      "GraphQL",
+      "GraphCMS",
+      "Apollo",
+      "TailwindCss",
+      "PostCss",
+      "Figma",
+      "GraphQL Code Generatpr",
+    ],
+    sourceCode: "https://github.com/arcorreiaa/login-video-platform",
+    livePreview: "login-video-platform.vercel.app/",
+    img: Login,
+    type: "web",
+  },
+  {
+    name: "Pokedex",
+    description:
+      "a pokedex that lists some pokemons taken from the official pokemon api",
+    stack: [
+      "Expo",
+      "Styled Components",
+      "React Native",
+      "React Navigation",
+      "React Native Masked-View",
+      "React Native SVG",
+      "Axios",
+      "JavaScript",
+      "Reanimated V2",
+      "Lottie",
+    ],
+    sourceCode: "https://github.com/arcorreiaa/pokefacil",
+    livePreview:
+      "https://drive.google.com/file/d/1NrUKOVB-PyWvCwZ7ANIozcTwfQbp-c8g/view",
+    img: Pokedex,
+    type: "mobile",
+  },
+  {
+    name: "VIDEO PLATFORM",
+    description:
+      "Simple video platform, where you can make a kind of subscription to be able to view the other contents. Videos about a childhood game",
+    stack: [
+      "React",
+      "Vite",
+      "Typescript",
+      "GraphQL",
+      "GraphCMS",
+      "Apollo",
+      "TailwindCss",
+      "PostCss",
+      "Figma",
+      "GraphQL Code Generatpr",
+    ],
+    sourceCode: "https://github.com/arcorreiaa/FCxLabs",
+    livePreview: "https://fcx-labs.web.app/",
+    img: FcxLabs,
+    type: "web",
+  },
 ];
 
 const skills = [
@@ -192,6 +259,7 @@ const skills = [
   "Bootstrap",
   "React-Native",
   "Github",
+  "Styled-Components",
 ];
 
 const contact = {
